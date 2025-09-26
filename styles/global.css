@@ -14,11 +14,11 @@
 }
 
 :root{
-    --brand-gradient: lin;
+    --brand-gradient: linear-gradient(90deg, var(--brand-color-primary)0%, var(--brand-color-secondary)100%);
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
 
-    --background-color: #09090B;
+    --bg-color: #09090B;
     --surface-color: #18181B;
     --stroke-color: #27272A;
     --text-color-secondary: #A1A1AA;
